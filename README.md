@@ -2,7 +2,7 @@
 
 A version of sprites.less for [Twitter Bootstrap](http://twitter.github.com/bootstrap/) with free **full** [glyph icons](http://glyphicons.com/) package optimized for retina displays. 
 
-*Note: Not all names match the original bootstrap class names. You can modify the .less file if you've already implemented them in your application. Otherwise, use the index.html file as a reference.*
+*Note: Not all names match the original bootstrap class names. You can modify the .less file if you've already implemented them in your application. Otherwise, use the [index.html](http://playground.zachmayberry.com/bootstrap-icons-retina/) file as a reference.*
 
 ## License
 
